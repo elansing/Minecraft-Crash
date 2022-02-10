@@ -1,0 +1,10 @@
+main: de.etiiomc.crash.main.main
+name: CrashManager
+version: 1.0.2
+author: etiiomc
+
+commands:
+  crash: 
+    description: Lasse das Spiel von einem anderen Spieler crashen
+  crashmanager: 
+    description: Zeige an ob das Plugin erfolgreich geladen worden ist
